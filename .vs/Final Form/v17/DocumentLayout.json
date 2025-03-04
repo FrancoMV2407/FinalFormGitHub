@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|c:\\users\\danie\\desktop\\u-tad stuff for projects\\2\u00BA a\u00F1o\\projects iv\\final form\\final form\\assets\\scripts\\overworld\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overworld\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\fevercolorslight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\fevercolorslight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\combomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\combomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\playerdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\playerdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\enemylife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemylife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\assets\\scripts\\combat\\attackprefabbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB00A672-DE3F-F713-CAFA-7896F417556E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combat\\attackprefabbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Overworld\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Overworld\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Overworld\\PlayerMovement.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Overworld\\PlayerMovement.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:42:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeverColorsLight.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\FeverColorsLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\FeverColorsLight.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\FeverColorsLight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\FeverColorsLight.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:18:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stamina.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\Stamina.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Stamina.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\Stamina.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Stamina.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:37:47.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboManager.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\ComboManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\ComboManager.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\ComboManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\ComboManager.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwFwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:32:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyLife.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\EnemyLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\EnemyLife.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\EnemyLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\EnemyLife.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:28:16.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerLife.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\PlayerLife.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\PlayerLife.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvyEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:40:07.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerDamage.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\PlayerDamage.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\PlayerDamage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:09:10.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\PlayerCollision.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\PlayerCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:28:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Movement.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Movement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:55:33.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:41:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\PlayerAttack.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:13:14.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\EnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\EnemyBehavior.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA0wBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:12:38.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttackPrefabBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\AttackPrefabBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\AttackPrefabBehavior.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\Combat\\AttackPrefabBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\AttackPrefabBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:38:35.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyStats.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\U-tad stuff for projects\\2\u00BA A\u00F1o\\Projects IV\\Final Form\\Final Form\\Assets\\Scripts\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBQwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:25:13.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
