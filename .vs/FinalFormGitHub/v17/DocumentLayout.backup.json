@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\dialoguepingpong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\dialoguepingpong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|c:\\users\\franc\\onedrive\\documents\\githubstuff\\finalformgithub\\assets\\scripts\\opening\\loadingeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\loadingeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\textrandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\textrandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\hovereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\hovereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\titlefade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\titlefade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\persona5effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\persona5effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\skipbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\skipbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\forceresolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\forceresolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\rotateeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\rotateeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\titlebackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\titlebackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\titlebuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\titlebuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\assets\\scripts\\opening\\objectfadein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC07EC-5C4E-AA86-1AE5-71CA6273CE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opening\\objectfadein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadingEffect.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\LoadingEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\LoadingEffect.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\LoadingEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\LoadingEffect.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:04:23.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextRandomizer.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TextRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\TextRandomizer.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TextRandomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\TextRandomizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:33:06.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RotateEffect.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\RotateEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\RotateEffect.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\RotateEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\RotateEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:24:07.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialoguePingPong.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\DialoguePingPong.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\DialoguePingPong.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\DialoguePingPong.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\DialoguePingPong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:22:08.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForceResolution.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\ForceResolution.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ForceResolution.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\ForceResolution.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ForceResolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:12:31.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkipButton.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\SkipButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\SkipButton.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\SkipButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\SkipButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:43:43.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona5Effect.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\Persona5Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\Persona5Effect.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\Persona5Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\Persona5Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:15:29.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TitleFade.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TitleFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\TitleFade.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TitleFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\TitleFade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:24:03.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoverEffect.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\HoverEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\HoverEffect.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\HoverEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\HoverEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:34:42.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TitleButtons.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TitleButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\TitleButtons.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TitleButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\TitleButtons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:22:06.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TitleBackground.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TitleBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\TitleBackground.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\TitleBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\TitleBackground.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:23:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjectFadeIn.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\ObjectFadeIn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Opening\\ObjectFadeIn.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documents\\GitHubStuff\\FinalFormGitHub\\Assets\\Scripts\\Opening\\ObjectFadeIn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Opening\\ObjectFadeIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:48:01.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
